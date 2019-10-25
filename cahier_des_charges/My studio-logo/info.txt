@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: acherus_grotesque_-_regular
+font link: https://www.fontsquirrel.com/fonts/acherus-grotesque
+font author: Horizon Type Foundry
+font author site: https://www.behance.net/horizontype
+
+
+icon designer: P.J. Onori
+icon designer link: /somerandomdude
+        
+
+fontColor: {"hex":"#E8E8EE"}
+bgColor: {"hex":"#400B2C"}
+iconColor: {"hex":"#E8E8EE"}
+
+      
