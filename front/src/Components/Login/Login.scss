@@ -1,0 +1,40 @@
+.login {
+    background-color: rgb(29, 35, 43);
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Source Sans Pro',
+        sans-serif;
+
+    .login-logo {
+        width: 300px;
+        padding: 10px;
+    }
+
+    .login-part {
+        .right-login-part {
+            background-color: white;
+            width: 100%;
+            padding: 0;
+            margin: 0;
+
+            .right-login-part-content {
+                color: rgb(82, 102, 122);
+                position: relative;
+                top: 50%;
+                transform: translateY(-50%);
+                h3{
+                    padding:50px;
+                }
+            }
+        }
+
+        .left-login-part {
+            padding: 0;
+            margin: 0;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+}

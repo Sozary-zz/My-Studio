@@ -1,10 +1,11 @@
 import React from 'react'
+import Login from './Components/Login/Login'
 import './App.css'
 
 function App() {
     return (
-        <div className="App">
-            <header className="App-header">hey</header>
+        <div className="app">
+            <Login></Login>
         </div>
     )
 }
